@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Caneta BIC preta",
-      "price": 5.89
+      "price": "1.99"
     },
     {
       "id": 2,
@@ -12,11 +12,11 @@
     },
     {
       "id": 3,
-      "name": "Sansung S20+",
-      "price": 5000.89
+      "name": "Sansung S20 Plus",
+      "price": "7120.90"
     },
     {
-      "name": "veio do form",
+      "name": "Pasta de plástico",
       "price": "9.99",
       "id": 4
     }
